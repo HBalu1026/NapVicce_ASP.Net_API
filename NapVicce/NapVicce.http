@@ -1,0 +1,6 @@
+@NapVicce_HostAddress = http://localhost:5055
+
+GET {{NapVicce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
